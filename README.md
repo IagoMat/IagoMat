@@ -3,11 +3,10 @@
 
 ![dracula][dracula]
 
-![dracula][dracula_repo]
+
 
 [dracula]: https://github-readme-stats.vercel.app/api?username=IagoMat&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula
 
-[dracula_repo]: https://github-readme-stats.vercel.app/api/pin/?username=IagoMat&repo=github-readme-stats&cache_seconds=86400&theme=dracula
 
 ##
 
