@@ -1,8 +1,8 @@
-<h1 align="center">Olá, Eu sou o Iago Matheus!✨💻</h1>
+<h1 align="center">Olá, sou Iago Matheus!✨💻</h1>
 
 ## Sobre mim :wave:
 
-Meu nome é Iago. Tenho 18 anos e atualmente moro em São Paulo, Brasil. Sou um estudante de programação proativo e dedicado. Concluí um curso técnico em Desenvolvimento de Sistemas pela ETEC e um curso de Desenvolvedor Web Full-Stack Java pelo Instituto PROA. Atualmente, estou aprimorando minhas habilidades e trabalhando em projetos que envolvem React, Java e MySQL.
+Meu nome é Iago, tenho 18 anos e moro em São Paulo, Brasil. Sou um estudante de programação dedicado e proativo. Concluí um curso técnico em Desenvolvimento de Sistemas pela ETEC e um curso de Desenvolvedor Web Full-Stack Java pelo Instituto PROA.
 
 
 
