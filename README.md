@@ -22,6 +22,7 @@ Ferramentas de desenvolvimento**
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
 
 **Contate-me**
 
