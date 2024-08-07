@@ -1,34 +1,37 @@
-### Olá, Eu sou o Iago Matheus 👋
-<br>
+<h1 align="center">Olá, Eu sou o Iago Matheus!✨💻</h1>
 
-### 🖥️ Tecnologias e Ferramentas: 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<!--   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<!--   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
-<!--   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
-</div>
+## Sobre mim :wave:
 
-</br>
-</br>
-<div display="inline-block">
- <p align="left">📚 Estou estudado no PROA;</p>
-</div>
-</br>
+Meu nome é Iago. Tenho 18 anos e atualmente moro em São Paulo, Brasil. Sou um estudante de programação proativo e dedicado. Concluí um curso técnico em Desenvolvimento de Sistemas pela ETEC e um curso de Desenvolvedor Web Full-Stack Java pelo Instituto PROA. Atualmente, estou aprimorando minhas habilidades e trabalhando em projetos que envolvem React, Java e MySQL.
 
-📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/iagomatheuxs) e você também pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios.😊
 
-</br>
 
-<a href="https://www.instagram.com/iagomatheuxs" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://www.linkedin.com/in/iagomatheus/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+ ## Minhas Habilidades
 
-##
+ **Linguagens**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+
+**
+Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+**Contate-me**
+
+[![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/IagoMat)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iagomatheus/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/iagomfloureiro/)
+
+**GitHub Stats**
 <div>
 <a href="https://github.com/IagoMat">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoMat&layout=compact&langs_count=7&theme=dracula"/>
-<!-- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=IagoMat&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IagoMat&theme=dracula&show_icons=true" />
 </div>
