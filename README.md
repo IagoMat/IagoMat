@@ -2,7 +2,7 @@
 
 ## Sobre mim :wave:
 
-Meu nome é Iago, tenho 18 anos e moro em São Paulo, Brasil. Sou um estudante de programação dedicado e proativo. Concluí um curso técnico em Desenvolvimento de Sistemas pela ETEC e um curso de Desenvolvedor Web Full-Stack Java pelo Instituto PROA.
+Meu nome é Iago, tenho 18 anos e moro em São Paulo, Brasil. Sou um estudante de programação dedicado e proativo. Concluí um curso técnico em Desenvolvimento de Sistemas pela ETEC e um curso de Desenvolvedor Web Full-Stack Java pelo Instituto PROA, e hoje em dia estou cursando Engenharia de Software na UNISA.
 
 
 
